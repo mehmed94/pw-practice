@@ -74,7 +74,7 @@ export default defineConfig<TestOptions>({
 
   ],
   webServer: {
-    command: 'npm run start',
+    command: 'npm start',
     url: 'http://localhost:4200/'
   }
 
